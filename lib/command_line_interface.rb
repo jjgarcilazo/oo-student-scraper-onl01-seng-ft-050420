@@ -39,4 +39,3 @@ class CommandLineInterface
   end
 
 end
-© 2020 GitHub, Inc.
